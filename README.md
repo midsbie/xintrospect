@@ -50,7 +50,7 @@ Ensure you have the following dependencies installed:
 
 1. Run the application:
 
-        build/XIntrospect
+        build/xintrospect
    
 1. The program will automatically select the active window upon launch.
 1. To introspect another window, click the New Window button (leftmost) in the header bar and then
