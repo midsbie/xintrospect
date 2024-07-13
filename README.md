@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="doc/screenshot-main_window.png" alt="XIntrospect Main Window" />
+</p>
+
 # XIntrospect
 
 XIntrospect is a lightweight utility built with Vala and GTK3 for inspecting X11 window properties.
