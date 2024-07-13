@@ -1,4 +1,4 @@
-project('xdump', 'vala')
+project('xintrospect', 'vala')
 
 sources = files(
   # Application
@@ -49,4 +49,4 @@ dependencies = [
   dependency('gdk-x11-3.0')
 ]
 
-executable('xdump', sources, dependencies: dependencies)
+executable('xintrospect', sources, dependencies: dependencies)
